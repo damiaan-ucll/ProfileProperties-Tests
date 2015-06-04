@@ -4,7 +4,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class SeleniumTest {
 
 	private WebDriver driver;
-	protected static final String baseURL = "http://localhost:63342/ProfileProperties/";
+	protected static final String baseURL = "http://r0449223.webontwerp.khleuven.be/ProfileProperties/";
 
 	@org.junit.Before
 	public void setUp() throws Exception {
