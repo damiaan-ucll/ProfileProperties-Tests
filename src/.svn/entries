@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://r0449223@projectwerk.khleuven.be/svn/prr0449223/ProfileProperties/JavaTests/src
+https://r0449223@projectwerk.khleuven.be/svn/prr0449223
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2194020b-2193-419e-82e3-dd570a71782f
+
+Foo.java
+file
+
+
+
+add
+
+SeleniumTest.java
+file
+
+
+
+add
+
+TestWebsite.java
+file
+
+
+
+add
+
